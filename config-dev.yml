@@ -1,5 +1,5 @@
 config:
-  info: "master branch,config-repo config-dev.yml version=1"
+  info: "master branch,config-repo config-dev.yml version=2"
 
 #暴露监控端点
 management:
